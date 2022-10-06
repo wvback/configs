@@ -1,7 +1,7 @@
 set nocompatible
 
 syntax enable
-colorscheme koehler
+colorscheme default
 
 try
 	source ~/.vimrc.d/ops.vim
