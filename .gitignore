@@ -1,0 +1,9 @@
+*[oa]
+*~
+*.swp
+*.orig
+*.rej
+
+dwm-*.*/dwm
+dwmblocks-*/dwmblocks
+dmenu-*.*/dmenu

@@ -1,0 +1,6 @@
+XTerm*.font: xft:Source Code Pro:pixelsize=14
+XTerm*.reverseVideo: true
+XTerm*.boldColors: false
+XTerm*.utf8: 1
+XTerm*.copyToClipboard: true
+XTerm*.loginShell: true

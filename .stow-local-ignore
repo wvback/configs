@@ -1,0 +1,11 @@
+\.git
+\.gitignore
+
+LICENSE
+README.md
+
+pkglist.txt
+
+^dwm-*.*
+^dwmblocks-*.*
+^dmenu-*.*
