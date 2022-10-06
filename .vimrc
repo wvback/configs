@@ -10,6 +10,12 @@ catch
 endtry
 
 try
+    source ~/.vimrc.d/funcs.vim
+catch
+	" file doesn't exist, ignore it
+endtry
+
+try
     source ~/.vimrc.d/keys.vim
 catch
 	" file doesn't exist, ignore it
